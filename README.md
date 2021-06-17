@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://snehakweera-devchallenge-interior-consultant.netlify.app/>
+    <a href="https://snehakweera-devchallenge-interior-consultant.netlify.app"/>
       Demo
     </a>
     <span> | </span>
